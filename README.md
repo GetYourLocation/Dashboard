@@ -1,4 +1,8 @@
-# Documentation
+# Dashboard
+
+Records of GetYourLocation system development progress.
+
+## Documentation
 
 - [Web 接口](./doc/api.md)
 
