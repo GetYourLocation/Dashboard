@@ -1,8 +1,8 @@
 # Diagram
 
-## Positioning sequence
+## Sequence
 
-![](https://raw.githubusercontent.com/GetYourLocation/Dashboard/master/doc/img/seq_positioning.png)
+![](https://raw.githubusercontent.com/GetYourLocation/Dashboard/master/doc/img/seq.png)
 
 ## Deployment
 
