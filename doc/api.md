@@ -6,8 +6,8 @@
     - [整数求和](#整数求和)
     - [整数求积](#整数求积)
     - [文件上传](#文件上传)
-    - [三角定位](#三角定位)
 - [定位类](#定位类)
+    - [三角定位](#三角定位)
 
 <!-- /MarkdownTOC -->
 
@@ -104,13 +104,16 @@ Response Example:
 }
 ```
 
+<a name="定位类"></a>
+## 定位类
+
 <a name="三角定位"></a>
 ### 三角定位
 
 Request URI:
 
 ```
-GET /api/localize
+GET /api/positioning
 ```
 
 Request Parameters:
@@ -141,7 +144,3 @@ Response Example:
     "y": 230.55
 }
 ```
-
-<a name="定位类"></a>
-## 定位类
-
