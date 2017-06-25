@@ -4,7 +4,8 @@ Records of GetYourLocation system development progress.
 
 ## Documentation
 
-- [Web 接口](./doc/api.md)
+- [Web API](./doc/api.md)
+- [Diagram](./doc/diagram.md)
 
 ## License
 

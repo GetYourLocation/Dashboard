@@ -7,6 +7,7 @@
     - [整数求积](#整数求积)
     - [文件上传](#文件上传)
 - [定位类](#定位类)
+    - [获取店铺坐标（developing）](#获取店铺坐标（developing）)
     - [三角定位](#三角定位)
 
 <!-- /MarkdownTOC -->
@@ -70,7 +71,7 @@ Response Example:
 
 ```json
 {
-    "ans": 100
+    "ans": 144
 }
 ```
 
@@ -106,6 +107,37 @@ Response Example:
 
 <a name="定位类"></a>
 ## 定位类
+
+<a name="获取店铺坐标（developing）"></a>
+### 获取店铺坐标（developing）
+
+Request URI:
+
+```
+POST /api/shop-location
+```
+
+Request Parameters:
+
+| Param | Description | Type |
+|-------|-------------|------|
+|img|店铺照片（JPEG 格式）|JPEG image|
+
+Response Properties:
+
+| Property | Description | Type |
+|----------|-------------|------|
+|x|店铺位置横坐标|float|
+|y|店铺位置纵坐标|float|
+
+Response Example:
+
+```json
+{
+    "x": 10.5,
+    "y": 20.5
+}
+```
 
 <a name="三角定位"></a>
 ### 三角定位
