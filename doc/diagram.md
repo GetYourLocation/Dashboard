@@ -2,4 +2,4 @@
 
 ## Positioning sequence
 
-![](https://github.com/GetYourLocation/Dashboard/blob/master/doc/img/seq_positioning.png)
+![](https://raw.githubusercontent.com/GetYourLocation/Dashboard/master/doc/img/seq_positioning.png)
