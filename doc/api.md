@@ -12,6 +12,8 @@
 
 <!-- /MarkdownTOC -->
 
+**注**：坐标系原点位于左下角，x 轴向右为正方向，y 轴向上为正方向。
+
 <a name="测试类"></a>
 ## 测试类
 
@@ -152,14 +154,16 @@ Request Parameters:
 
 | Param | Description | Type |
 |-------|-------------|------|
-|alpha|alpha 值|float|
-|beta|beta 值|float|
+|alpha|alpha 角度值|float|
+|beta|beta 角度值|float|
 |x1|第一个参照物的横坐标|float|
 |y1|第一个参照物的纵坐标|float|
 |x2|第二个参照物的横坐标|float|
 |y2|第二个参照物的纵坐标|float|
 |x3|第三个参照物的横坐标|float|
 |y3|第三个参照物的纵坐标|float|
+
+[参数含义](https://github.com/GetYourLocation/Dashboard/blob/master/doc/%E5%AE%9A%E4%BD%8D%E7%AE%97%E6%B3%95%E6%B5%8B%E8%AF%95%E7%BB%93%E6%9E%9C%E6%8A%A5%E5%91%8A.md#测试)
 
 Response Properties:
 
