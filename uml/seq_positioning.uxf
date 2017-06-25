@@ -9,7 +9,7 @@
       <w>150</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>&lt;&lt; HTTP Server &gt;&gt;
+    <panel_attributes>&lt;&lt;Server&gt;&gt;
 :ServiceServer</panel_attributes>
     <additional_attributes/>
   </element>
@@ -21,8 +21,8 @@
       <w>210</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>&lt;&lt; TCP Server &gt;&gt;
-:ShopPositioningSystem</panel_attributes>
+    <panel_attributes>&lt;&lt;Server&gt;&gt;
+:ShopPositioningServer</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
@@ -102,7 +102,7 @@ shop_image</panel_attributes>
       <w>130</w>
       <h>40</h>
     </coordinates>
-    <panel_attributes>&lt;&lt; Android &gt;&gt;
+    <panel_attributes>&lt;&lt;Android&gt;&gt;
 :Client</panel_attributes>
     <additional_attributes/>
   </element>
