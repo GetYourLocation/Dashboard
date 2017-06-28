@@ -2,7 +2,7 @@
 
 | Label | Shop |
 |-------|------|
-|zzwgwt|张记瓦罐煨汤|
+|zjwgwt|张记瓦罐煨汤|
 |zc|ZingCake|
 |wpht|外婆馄饨|
 |ccm|COCOMO|
@@ -53,7 +53,7 @@
 |scy|酸菜鱼|
 |xj|乡聚|
 |jgl|锦桂螺|
-|xwkz|想无汁|
+|xwkz|想无稞汁|
 |ydd|一点点|
 |twlrf|台湾卤肉饭|
 |tbs|铁板烧|
