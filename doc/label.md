@@ -15,7 +15,7 @@
 |ntst|牛塔斯特|
 |mgf|魔锅坊|
 |sxy|蜀湘园|
-|blymlxg|巴老爷麻辣香锅|
+|lbymlxg|老巴爷麻辣香锅|
 |xghxtbs|香港海鲜铁板烧|
 |npb|牛排杯|
 |wgyf|五谷鱼坊|
