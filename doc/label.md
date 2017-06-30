@@ -1,16 +1,18 @@
 # Label
 
+**粗体字表示该店铺招牌数据待采集。**
+
 | Label | Shop |
 |-------|------|
-|zjwgwt|张记瓦罐煨汤|
-|zc|ZingCake|
+|zjwgwt|**张记瓦罐煨汤**|
+|zc|**ZingCake**|
 |wpht|外婆馄饨|
 |ccm|COCOMO|
 |llgf|料理工房|
 |gljl|咖喱家裡|
 |hntstgf|湖南特色筒骨粉|
 |xmcf|新马厨房|
-|zzljzjf|正宗隆江猪脚饭|
+|zzljzjf|**正宗隆江猪脚饭**|
 |cxfw|朝鲜风味|
 |ntst|牛塔斯特|
 |sxy|蜀湘园|
@@ -22,8 +24,8 @@
 |ldjscy|鹿鼎记酸菜鱼|
 |wsn|为食牛|
 |sgz|砂锅粥|
-|gn|瓜奶|
-|xgsjtbs|香港深井铁板烧|
+|gn|**瓜奶**|
+|xgsjtbs|香港深井烧腊|
 |hsf|黄师傅|
 |tml|泰忙了|
 |xyx|香芋仙|
@@ -83,7 +85,7 @@
 |bctzxctv|百草堂中西餐厅（竖）|
 |bctv|百草堂（竖）|
 |vbox|vbox|
-|yht|益禾堂|
+|yht|**益禾堂**|
 |jhhg|江湖火锅（大）|
 |hg|江湖火锅（小）|
 |dks|大卡司|
