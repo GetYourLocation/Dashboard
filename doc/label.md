@@ -13,7 +13,6 @@
 |zzljzjf|正宗隆江猪脚饭|
 |cxfw|朝鲜风味|
 |ntst|牛塔斯特|
-|mgf|魔锅坊|
 |sxy|蜀湘园|
 |lbymlxg|老巴爷麻辣香锅|
 |xghxtbs|香港海鲜铁板烧|
@@ -35,7 +34,6 @@
 |wd|味稻|
 |qqmlxg|祺祺麻辣香锅|
 |bgxzgz|缤果鲜榨果汁|
-|jgz|橘果子|
 |wghxgc|五谷汇鲜果茶|
 |wghxzgz|五谷汇鲜榨果汁|
 |ylgnrm|伊兰宫牛肉面|
@@ -44,27 +42,49 @@
 |hhm|呼呼面|
 |njscy|农家酸菜鱼|
 |lhyx|炉火鱼香|
-|bct|百草堂|
-|jhhg|江湖火锅|
 |tc|泰菜|
 |xbl|西北狼|
 |qxss|千寻寿司|
-|yxm|鱼小萌|
 |scy|酸菜鱼|
 |xj|乡聚|
 |jgl|锦桂螺|
 |xwkz|想无稞汁|
 |ydd|一点点|
 |twlrf|台湾卤肉饭|
-|tbs|铁板烧|
-|bjs|板京神|
 |ygf|杨国福|
 |ccdk|COCO 都可|
-|dks|大卡司|
 |mm|面魔|
 |glgl|咕噜咕噜|
-|jbcgz|juicybuddy 纯果汁|
+|jbcgz|juicybuddy|
 |tk|TeaKopi|
 |cks|茶咖师|
-|lhz|梨花寨|
-|hkc|韩客菜|
+|hkch|韩客菜（横）|
+|hkcv|韩客菜（竖）|
+|lhzs|梨花寨（小）|
+|lhzl|梨花寨（大）|
+|yzmxdgx|1995 源自米线的故乡（梨花寨招牌）|
+|lhze|LIHUAZHAI（梨花寨英文）|
+|aj|阿具|
+|ydt|有点甜|
+|yxm|鱼小萌|
+|zcshcdym|这才是好吃的鱼嘛（鱼小萌招牌）|
+|pf|PARTY FRIEND|
+|dmyx|动漫游戏|
+|hqly|环球乐园|
+|bjstbs|板京神（铁板烧）|
+|bjs|板京神|
+|bjsyyz|板京神（营业中）|
+|mgf|魔锅坊|
+|mgfmlxg|麻辣香锅（魔锅坊招牌）|
+|mgfshlx|蜀火炉湘（魔锅坊招牌）|
+|jgz|橘果子（不带圈）|
+|jgzc|橘果子（带圈）|
+|bctzxcth|百草堂中西餐厅（横）|
+|bctzxctv|百草堂中西餐厅（竖）|
+|bctv|百草堂（竖）|
+|vbox|vbox|
+|yht|益禾堂|
+|jhhg|江湖火锅（大）|
+|hg|江湖火锅（小）|
+|dks|大卡司|
+|dkse|DAKASI（大卡司英文）|
