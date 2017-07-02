@@ -6,7 +6,7 @@ Records of GetYourLocation system development progress.
 
 - [Web API](./doc/api.md)
 - [Diagram](./doc/diagram.md)
-- [Labels](./doc/label.md)
+- [Labels](https://github.com/GetYourLocation/ShopPositioningServer/blob/master/util/genLabelDict.m)
 
 ## License
 
