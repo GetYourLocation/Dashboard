@@ -61,7 +61,7 @@ Service Server
     </coordinates>
     <panel_attributes>&lt;&lt;Server&gt;&gt;
 Shop Positioning Server
-{python,c++}</panel_attributes>
+{MATLAB}</panel_attributes>
     <additional_attributes/>
   </element>
   <element>
